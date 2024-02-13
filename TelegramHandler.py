@@ -6,7 +6,7 @@ class TelegramHandler:
     def __init__(self):
         # For interacting with telegram bot API
         # Method of API Call is: https://api.telegram.org/bot<token>/METHOD_NAME
-        self.tgBotAPIKey = "6441338011:AAF5d1Rb1X2aujxNPEkXDklALZzlzp7KgYI"
+        self.tgBotAPIKey = "TELEGRAM_BOT_API_KEY"
         self.tgBaseURL = "https://api.telegram.org/bot"
 
         # Chat IDs
